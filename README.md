@@ -37,6 +37,16 @@
 
 <img src = "img\2_1.jpg" width = 100%>
 
+<img src = "img\2_2.jpg" width = 100%>
+
+<img src = "img\2_3.jpg" width = 100%>
+
+<img src = "img\3_1.jpg" width = 100%>
+
+<img src = "img\3_2.jpg" width = 100%>
+
+<img src = "img\3_3.jpg" width = 100%>
+
 Задание 4
 Создайте свой кастомный дашборд.
 
@@ -44,3 +54,7 @@
 Выполняя ДЗ сверяйтесь с процессом отражённым в записи лекции.
 В разделе Dashboards создайте новый дашборд
 Разместите на нём несколько графиков на ваше усмотрение.
+
+<img src = "img\4_1.jpg" width = 100%>
+
+<img src = "img\4_2.jpg" width = 100%>
